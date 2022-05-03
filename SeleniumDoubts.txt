@@ -2,9 +2,10 @@ toolqa.checkbox-xpath general writring-//*[text()='Word File.doc']      "+String
 config location
 database
 wait
-Sortable doubt is list need or not
+Sortable doubt is list need 
 maven site
 Extent report verision
 list of element in pageObjectmodule
+Doubts are cleared.
 
 
