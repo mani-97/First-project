@@ -1,0 +1,10 @@
+toolqa.checkbox-xpath general writring-//*[text()='Word File.doc']      "+String+"    written
+config location
+database
+wait
+Sortable doubt is list need or not
+maven site
+Extent report verision
+list of element in pageObjectmodule
+
+
